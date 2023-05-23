@@ -1,0 +1,5 @@
+tensorflow
+seaborn
+pandas
+nltk
+scikit-learn
